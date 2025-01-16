@@ -1,0 +1,29 @@
+
+
+Employee Information: 
+ 
+Name: John Doe   
+Date of Birth: 12/25/1985   
+Social Security Number: ****   
+Phone Number: +1 (555) 123-4567   
+Email: john.doe@example.com   
+ 
+Bank Details: 
+Account Number: 9876543210   
+Routing Number: 123456789   
+Credit Card Number: 4111 1111 1111 1111   
+Expiration Date: 12/2025   
+CVV: 123   
+ 
+Client Details: 
+Name: Jane Smith   
+Address: 456 Elm Street, Springfield, IL 62704   
+Phone: +1 (555) 987-6543   
+Email: jane.smith@example.com   
+ 
+Confidential Project Code: PX-**** 
+API Keys: 
+- AWS Access Key: AKIAIOSFODNN7EXAMPLE 
+- AWS Secret Key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY 
+ 
+End of Document. 
